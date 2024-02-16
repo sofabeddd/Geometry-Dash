@@ -1,6 +1,10 @@
 {
 	"geode": "2.0.0-beta.19",
-	"gd": "2.204",
+	"gd": {
+	    "win": "2.204",
+	    "android": "*",
+	    "mac": "2.200"
+	},
 	"version": "v1.0.0",
 	"id": "sofabeddd.geometry_dash",
 	"name": "Geometry Dash",
