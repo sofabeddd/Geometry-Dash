@@ -7,11 +7,11 @@ The Geometry Dash Mod turns the game title into a clickable button. When clicked
 Have feedback or encountered a bug? Report it [here](https://github.com/sofabeddd/Geometry-Dash/issues/new).
 
 ## Latest Changes
-- Fixed compatibility issues with [spin-off subtitles](https://geode-sdk.org/mods/iristraa.spinoffsubtitles/).
-- Rebuilt for Android support.
+- Removed hard-coded values to make the mod work on all resolutions.
 
 ## Credits
-**Sound Effect:** [MDK](https://www.youtube.com/@MDKOfficialYT)
+**Sound Effect:** [MDK](https://www.youtube.com/@MDKOfficialYT)  
+**Mod Testing:** [RayDeeUx](https://github.com/RayDeeUx)
 
 ---
 ## Shameless Promotion

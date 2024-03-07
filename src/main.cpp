@@ -21,14 +21,14 @@ public:
         auto main_title = getChildByID("main-title");
         main_title->removeFromParent();
 
-        auto main_menu = getChildByID("main-menu");
-
         auto main_title_menu= CCMenu::create();
-        main_title_menu->setContentSize(CCSize { 429.f, 52.f });
-        main_title_menu->setPosition(main_menu->boundingBox().origin.x, 270 - 26);
+
+        main_title_menu->setID("main-title-menu"_spr);
+        main_title_menu->updateLayout();
+        main_title_menu->setPosition(main_title->boundingBox().origin);
 
         auto title_menu_button = CCMenuItemSpriteExtra::create(main_title, this, menu_selector(GeometryDashMenuLayer::onMainTitle));
-        title_menu_button->setPosition(214.5, 26.f);
+        title_menu_button->setPosition(main_title->getPosition());
 
         main_title_menu->addChild(title_menu_button);
         addChild(main_title_menu);
