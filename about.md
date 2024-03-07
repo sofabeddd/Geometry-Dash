@@ -8,7 +8,7 @@ Have feedback or encountered a bug? Report it [here](https://github.com/sofabedd
 
 ## Latest Changes
 - Fixed compatibility issues with [spin-off subtitles](https://geode-sdk.org/mods/iristraa.spinoffsubtitles/).
-- Rebuilt for Android and Mac support.
+- Rebuilt for Android support.
 
 ## Credits
 **Sound Effect:** [MDK](https://www.youtube.com/@MDKOfficialYT)
