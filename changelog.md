@@ -3,4 +3,4 @@
 
 ## v1.0.1
 - Fixed compatibility issues with [spin-off subtitles](https://geode-sdk.org/mods/iristraa.spinoffsubtitles/).
-- Rebuilt for Android and Mac support.
+- Rebuilt for Android support.
