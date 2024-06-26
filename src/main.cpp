@@ -21,7 +21,7 @@ public:
         auto main_title = getChildByID("main-title");
         main_title->removeFromParent();
 
-        auto main_title_menu= CCMenu::create();
+        auto main_title_menu = CCMenu::create();
 
         main_title_menu->setID("main-title-menu"_spr);
         main_title_menu->updateLayout();

@@ -7,7 +7,8 @@ The Geometry Dash Mod turns the game title into a clickable button. When clicked
 Have feedback or encountered a bug? Report it [here](https://github.com/sofabeddd/Geometry-Dash/issues/new).
 
 ## Latest Changes
-- Changed the mod icon to match others on the index.
+- Added Mac support.
+- Rebuilt for Geode v3.0.0
 
 ## Credits
 **Mod Icon:** [RueOfficial](user:26528871)  

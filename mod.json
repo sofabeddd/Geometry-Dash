@@ -5,12 +5,13 @@
 		{
 			"id": "geode.node-ids",
 			"importance": "required",
-			"version": ">=v1.5.1"
+			"version": ">=v1.12.0"
 		}
 	],
 	"gd": {
-		"win": "2.204",
-		"android": "2.205"
+		"win": "2.206",
+		"mac": "2.206",
+		"android": "2.206"
 	},
 	"resources": {
 		"files": ["resources/audio/*.ogg"]
@@ -18,9 +19,9 @@
 	"tags": [
 		"Cosmetic"
 	],
-	"geode": "2.0.0-beta.21",
+	"geode": "3.0.0",
 	"id": "sofabeddd.geometry_dash",
 	"name": "Geometry Dash",
 	"repository": "https://github.com/sofabeddd/Geometry-Dash",
-	"version": "v1.0.3"
+	"version": "v1.1.0"
 }
