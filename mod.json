@@ -17,7 +17,7 @@
 		"files": ["resources/audio/*.ogg"]
 	},
 	"tags": [
-		"Cosmetic", "Joke"
+		"interface", "joke"
 	],
 	"geode": "3.0.0",
 	"id": "sofabeddd.geometry_dash",
