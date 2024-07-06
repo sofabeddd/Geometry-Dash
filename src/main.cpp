@@ -29,7 +29,7 @@ public:
 
         auto title_menu_button = CCMenuItemSpriteExtra::create(main_title, this, menu_selector(GeometryDashMenuLayer::onMainTitle));
         title_menu_button->setPosition(main_title->getPosition());
-
+        title_menu_button->setID("main-title");
         main_title_menu->addChild(title_menu_button);
         addChild(main_title_menu);
 
