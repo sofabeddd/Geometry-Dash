@@ -1,3 +1,6 @@
+## v1.1.1
+- Added Node ID to the title button
+
 ## 1.1.0
 - Added Mac support.
 - Rebuilt for Geode v3.0.0
