@@ -1,3 +1,5 @@
+## 1.1.1
+- Fixed removal of the `main-title` Node ID.
 ## 1.1.0
 - Added Mac support.
 - Rebuilt for Geode v3.0.0
